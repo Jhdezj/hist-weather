@@ -1,0 +1,984 @@
+city,lat,lng,group
+Mexico City,19.4333,-99.1333,C
+Guadalajara,20.6767,-103.3475,C
+Monterrey,25.6667,-100.3,C
+Tijuana,32.525,-117.0333,B
+Ecatepec,19.6097,-99.06,C
+León de los Aldama,21.1167,-101.6833,B
+Puebla,19.0333,-98.1833,C
+Zapopan,20.7167,-103.4,C
+Juárez,31.745,-106.485,B
+Mexicali,32.6633,-115.4678,B
+Nezahualcóyotl,19.4081,-99.0186,B
+Ciudad Nezahualcóyotl,19.4006,-99.0148,B
+Morelia,19.7683,-101.1894,C
+Aguascalientes,21.876,-102.296,B
+Naucalpan de Juárez,19.4753,-99.2378,C
+Mérida,20.97,-89.62,A
+Cancún,21.1606,-86.8475,A
+Chihuahua,28.6369,-106.0769,B
+Saltillo,25.4231,-100.9919,B
+El Dorado,24.808,-107.397,B
+Hermosillo,29.0989,-110.9542,B
+Culiacán,24.8069,-107.3939,B
+Querétaro,20.5875,-100.3928,B
+San Luis Potosí,22.1511,-100.9761,B
+Guadalupe,25.6775,-100.2597,C
+Acapulco de Juárez,16.8636,-99.8825,A
+Tlaquepaque,20.6167,-103.3167,C
+Durango,24.025,-104.6675,B
+Tlalnepantla,19.5367,-99.1947,C
+Chimalhuacán,19.4167,-98.9,C
+Irapuato,20.6667,-101.35,B
+Reynosa,26.0922,-98.2778,B
+Tuxtla,16.7528,-93.1167,A
+Tonalá,20.6167,-103.2333,C
+Cuautitlán Izcalli,19.65,-99.25,C
+Ixtapaluca,19.3186,-98.8822,C
+Heroica Matamoros,25.8797,-97.5042,C
+Ciudad Apodaca,25.7817,-100.1886,C
+Tultitlán de Mariano Escobedo,19.645,-99.1694,C
+Mazatlán,23.2167,-106.4167,B
+Ciudad López Mateos,19.55,-99.2833,C
+Ensenada,31.8578,-116.6058,B
+San Nicolás de los Garza,25.75,-100.2833,B
+Veracruz,19.1903,-96.1533,A
+Xalapa,19.54,-96.9275,C
+Nuevo Laredo,27.4861,-99.5069,B
+Celaya,20.5222,-100.8122,B
+Nicolás Romero,19.5833,-99.3667,C
+Tecámac,19.7131,-98.9683,C
+Minatitlán,17.9833,-94.55,A
+Villahermosa,17.9892,-92.9281,A
+Gómez Palacio,25.5611,-103.4983,B
+Cuernavaca,18.9186,-99.2342,A
+Uruapan,19.4208,-102.0628,C
+Tepic,21.5083,-104.8931,C
+Soledad de Graciano Sánchez,22.1833,-100.9333,B
+Ciudad Obregón,27.4939,-109.9389,B
+Salamanca,20.5703,-101.1972,C
+Guasavito,25.5744,-108.4706,B
+Tehuacán,18.4617,-97.3928,B
+Coatzacoalcos,18.15,-94.4333,A
+Chalco,19.2647,-98.8975,C
+Ciudad Benito Juárez,25.65,-100.0833,C
+Ciudad Santa Catarina,25.6833,-100.45,B
+Ciudad Victoria,23.7389,-99.1431,C
+Playa del Carmen,20.6281,-87.0755,A
+San Juan del Río,20.3833,-99.9833,B
+Oaxaca,17.0606,-96.7253,B
+Ciudad General Escobedo,25.7933,-100.1583,C
+Los Mochis,25.7835,-108.9937,B
+Pachuca,20.1,-98.75,C
+Tampico,22.2553,-97.8686,A
+Coacalco,19.6333,-99.0931,C
+Huixquilucan,19.3611,-99.3508,C
+Nogales,31.3,-110.9333,B
+Heroica Nogales,31.3186,-110.9458,B
+La Paz,24.1422,-110.3108,B
+Campeche,19.85,-90.5306,A
+Carmen,18.6431,-91.8306,A
+Monclova,26.9103,-101.4222,B
+García,25.8167,-100.5833,B
+Fresnillo,23.175,-102.8675,B
+Puerto Vallarta,20.6458,-105.2222,A
+Toluca,19.2925,-99.6569,C
+Tapachula,14.9,-92.2667,A
+Jiutepec,18.8833,-99.1667,A
+Comalcalco,18.2801,-93.2018,A
+Guadalupe,22.7528,-102.5078,B
+Zamora,19.9833,-102.2833,C
+Córdoba,18.8942,-96.9347,C
+Ciudad Madero,22.25,-97.8333,A
+Cuautla,18.8167,-98.95,A
+Guanajuato,21.0178,-101.2567,C
+Ciudad del Carmen,18.6333,-91.8333,A
+Manzanillo,19.0522,-104.3158,A
+Poza Rica de Hidalgo,20.5333,-97.45,A
+Chilpancingo,17.55,-99.5,A
+San Cristóbal,16.7367,-92.6383,C
+Cuauhtémoc,28.405,-106.8667,B
+Cuautitlán,19.6833,-99.1833,C
+Ciudad Valles,21.9833,-99.0167,A
+San Luis Río Colorado,32.4767,-114.7625,B
+Santa María Texmelucan,19.2833,-98.4333,C
+Chicoloapan,19.4167,-98.9,C
+Piedras Negras,28.7,-100.5231,C
+Lagos de Moreno,21.35,-101.9167,B
+Chetumal,18.5036,-88.3053,A
+San Martin Texmelucan de Labastida,19.2833,-98.4333,C
+Tuxtepec,18.1,-96.1167,A
+San Andrés Tuxtla,18.4483,-95.2122,A
+Papantla de Olarte,20.4478,-97.32,A
+Tulancingo,20.0833,-98.3667,C
+Ciudad Acuña,29.3242,-100.9317,B
+Macuspana,17.7667,-92.6,A
+Guaymas,27.9183,-110.8933,B
+Ixtlahuaca,19.5689,-99.7669,C
+Delicias,28.1931,-105.4717,B
+Valle de Santiago,20.3928,-101.1914,B
+Pénjamo,20.4311,-101.7222,C
+Villa de Álvarez,19.25,-103.7333,A
+Pesquería,25.785,-100.0511,C
+Colima,19.2433,-103.7247,A
+Boca del Rio,19.1056,-96.1078,A
+Tepatitlán de Morelos,20.8139,-102.7639,C
+Las Maravillas,16.3667,-91.7333,C
+Iguala de la Independencia,18.345,-99.5383,A
+Kanasín,20.9344,-89.5578,A
+Cunduacán,18.0667,-93.1667,A
+San José del Cabo,23.0614,-109.7081,B
+Zinacantepec,19.2833,-99.7333,C
+Huejutla de Reyes,21.1333,-98.4167,A
+Cholula de Rivadabia,19.0633,-98.3064,C
+Apatzingan de la Constitucion,19.0886,-102.3508,B
+Orizaba,18.85,-97.1,C
+Zacatecas,22.7736,-102.5736,B
+San Pedro Garza García,25.6667,-100.3,C
+Ciudad Hidalgo,19.6917,-100.5536,C
+Navojoa,27.0813,-109.4461,B
+Chilapa de Álvarez,17.5944,-99.1778,A
+Tizayuca,19.8333,-98.9833,C
+Miramar,22.3375,-97.8694,A
+Matamoros,25.533,-103.25,B
+Heroica Guaymas,27.9183,-110.8989,B
+Tecomán,18.9089,-103.8747,B
+Temixco,18.85,-99.2333,A
+El Pueblito,20.5397,-100.4414,B
+Ciudad Guzmán,19.7,-103.4667,B
+Tlapacoyan,19.9617,-97.2108,C
+Las Delicias,28.2,-105.5,B
+Comitán,16.25,-92.1333,C
+Chilón,17.1167,-92.2833,A
+San Antonio Enchisi,19.7072,-99.7867,C
+Martínez de la Torre,20.0667,-97.05,A
+Temoaya,19.4686,-99.5933,C
+Lerma,19.2847,-99.5119,C
+Texcoco,19.52,-98.88,C
+Parral,26.9333,-105.6667,B
+Tenancingo,18.9608,-99.5906,C
+Tula de Allende,20.05,-99.35,B
+Matehuala,23.6528,-100.6444,B
+Ciudad Río Bravo,25.9861,-98.0889,B
+San Luis de la Paz,21.2986,-100.5164,B
+Playas de Rosarito,32.3422,-117.0561,B
+San Felipe del Progreso,19.7125,-99.9511,C
+Ixmiquilpan,20.4819,-99.2181,B
+Tamazunchale,21.2667,-98.7833,A
+Paraíso,18.3961,-93.2128,A
+Rincón de Romos,22.2333,-102.3167,B
+Ocotlán,20.3467,-102.7744,C
+San José del Rincón Centro,19.6606,-100.1525,C
+Santa Cruz Xoxocotlán,17.0264,-96.7333,B
+Teziutlan,19.8178,-97.3667,C
+Coatepec,19.4522,-96.9614,C
+Tultepec,19.685,-99.1281,C
+Agua Prieta,31.3258,-109.5489,B
+Ciudad de Atlixco,18.9,-98.45,C
+San Francisco,30.7841,-112.518,B
+Jilotepec,19.9519,-99.5328,C
+Salinas Victoria,25.9667,-100.3,B
+Santa Rosa Jauregui,20.7418,-100.4473,B
+Guasave,25.5655,-108.4718,B
+Apaseo el Grande,20.5531,-100.6347,B
+Ciudad Mante,22.7333,-98.95,A
+Túxpam de Rodríguez Cano,20.95,-97.4,A
+Acayucan,17.9422,-94.9103,A
+La Piedad,20.3333,-102.0167,C
+La Trinidad,15.9833,-91.8667,A
+Apizaco,19.4167,-98.1333,C
+Xicotepec de Juárez,20.3,-97.9667,C
+Salina Cruz,16.1833,-95.2,A
+Tecate,32.5722,-116.6403,C
+Tala,20.6667,-103.7,C
+Maravatío de Ocampo,19.8976,-100.45,C
+San Andrés Cholula,19.05,-98.3,C
+Pátzcuaro,19.5164,-101.6097,C
+Ciudad Lerdo,25.55,-103.5167,B
+Juventino Rosas,20.65,-101.0,C
+Ciudad Lázaro Cárdenas,17.9561,-102.1922,A
+Sahuayo de Morelos,20.05,-102.7333,C
+Villa Victoria,19.4333,-100.0,C
+Huebampo,26.7228,-109.4856,B
+Cozumel,20.5104,-86.9493,A
+Tecamachalco,18.8667,-97.7167,B
+Tacámbaro de Codallos,19.2356,-101.4569,C
+Cadereyta Jiménez,25.6,-100.0,C
+Frontera,26.926,-101.449,B
+Juchitán de Zaragoza,16.4333,-95.0167,A
+Silao,20.9478,-101.4281,B
+San Francisco del Rincón,21.0228,-101.86,B
+Tejupilco,18.9058,-100.1528,A
+Linares,24.8597,-99.5647,C
+San Miguel de Allende,20.9142,-100.7436,B
+San Juan de los Lagos,21.2458,-102.3308,C
+Los Reyes de Salgado,19.5833,-102.4667,C
+Rioverde,21.93,-99.98,B
+Ixtaczoquitlán,18.85,-97.0667,C
+Purísima de Bustos,21.0333,-101.8667,B
+Jacona de Plancarte,19.9333,-102.3167,C
+Yuriria,20.2,-101.15,C
+Mineral de la Reforma,20.15,-98.4333,C
+Valle Hermoso,25.6736,-97.8144,C
+Zapotlanejo,20.6228,-103.0689,C
+Cabo San Lucas,22.8897,-109.9156,B
+Ixtlahuacán de los Membrillos,20.35,-103.1833,C
+La Barca,20.2833,-102.5667,C
+Tepotzotlán,19.7161,-99.2236,C
+Santa Catarina Otzolotepec,18.5667,-97.25,C
+Heroica Caborca,30.7167,-112.15,B
+Zihuatanejo,17.6444,-101.5511,A
+Dolores Hidalgo Cuna de la Independencia Nacional,21.1516,-100.9369,B
+San Mateo Atenco,19.2667,-99.5333,C
+Ramos Arizpe,25.55,-100.9667,B
+Ocoyoacac,19.2739,-99.4606,C
+Torreón,25.5419,-103.4083,B
+Jocotitlán,19.7072,-99.7867,C
+Jiquílpan de Juárez,19.9942,-102.7172,C
+Autlán de Navarro,19.7667,-104.3667,A
+Coyula,20.6586,-103.2264,C
+Sabinas,27.9167,-101.3,B
+Santo Domingo Tehuantepec,16.3244,-95.2389,A
+Apaseo el Alto,20.45,-100.6167,C
+Santiago Tianguistenco,19.1797,-99.4706,C
+Misantla,19.9333,-96.85,A
+Guamúchil,25.4639,-108.0794,B
+Teoloyucan,19.7442,-99.1811,C
+Puerto Peñasco,31.3167,-113.5369,B
+Cortazar,20.4828,-100.9611,B
+Valle de Bravo,19.1925,-100.1306,C
+Huatusco,19.1489,-96.9661,C
+Atotonilco el Alto,20.5333,-102.5,C
+Huehuetoca,19.8342,-99.2033,C
+Altamira,22.3375,-97.8694,A
+Huauchinango,20.1767,-98.0528,C
+Balancán,17.8,-91.5333,A
+Temascalcingo,19.9147,-100.0036,C
+Zempoala,19.9153,-98.6689,C
+Jerez de García Salinas,22.6481,-102.9903,B
+Santiago Tuxtla,18.4653,-95.3025,A
+Cosamaloapan,18.3667,-95.8,A
+Alvarado,18.7811,-95.7572,A
+Tezonapa,18.6,-96.6833,A
+Acambay,19.9539,-99.8431,C
+Acámbaro,20.0361,-100.7314,C
+Uman,20.8833,-89.75,A
+Chiapa de Corzo,16.7069,-93.0139,A
+Nuevo Casas Grandes,30.4167,-107.9167,B
+Oxchuc,16.7833,-92.2833,C
+Tequisquiapan,20.5206,-99.8958,B
+Ixhuatlán de Madero,20.6833,-98.0167,A
+Encarnación de Díaz,21.5167,-102.2333,B
+Pinotepa,16.3412,-98.0537,A
+Simojovel de Allende,17.15,-92.7167,A
+San José Villa de Allende,19.3747,-100.1475,C
+Tizimín,21.1425,-88.1647,A
+Tlacotepec,18.6882,-97.6489,B
+Taxco de Alarcón,18.5564,-99.605,C
+Uriangato,20.1333,-101.1667,C
+Acatzingo,18.9817,-97.7822,C
+Huamantla,19.3133,-97.9228,C
+Palenque,17.4333,-91.8,A
+Umán,20.8833,-89.75,A
+Zumpango,19.7969,-99.0992,C
+Francisco I. Madero,25.7753,-103.2731,B
+Tepeapulco,19.7856,-98.5517,C
+San Pedro,25.7578,-102.9831,B
+Santa Lucía del Camino,17.0667,-96.7,B
+Catemaco,18.4167,-95.1167,A
+Cintalapa de Figueroa,16.6978,-93.7203,A
+Valladolid,20.6894,-88.2017,A
+Jiménez,27.13,-104.9067,B
+San Pedro Mixtepec,16.0,-97.1169,A
+Colonia del Sol,22.9125,-109.9208,B
+Cuetzalan,20.0333,-97.5167,C
+Ocosingo,16.9072,-92.0961,A
+Pabellón de Arteaga,22.15,-102.2667,B
+Buena Vista Tomatlán,19.2102,-102.5869,B
+Chenalhó,16.9333,-92.5667,C
+Calimaya,19.1608,-99.6172,C
+Santiago,25.4333,-100.1333,C
+Teotihuacan,19.6897,-98.8608,C
+Santa Ana Chiautempan,19.3167,-98.1833,C
+San Francisco de los Romo,22.0833,-102.2667,B
+La Independencia,16.2526,-92.0237,C
+Tlalmanalco,19.2044,-98.8025,C
+Acaxochitlán,20.1667,-98.2,C
+Santa María Huatulco,15.85,-96.3333,A
+Guacharachi,27.15,-107.3167,C
+Cuautepec de Hinojosa,20.15,-98.4333,C
+Ciudad de Huajuapam de León,17.8,-97.7667,C
+Montemorelos,25.1872,-99.8267,C
+Tres Valles,18.1667,-96.0167,A
+Meoqui,28.2722,-105.4819,B
+Jalacingo,19.8,-97.3,C
+Petatlán,17.5383,-101.2739,A
+Tlajomulco de Zúñiga,20.4736,-103.4431,C
+Zongolica,18.6667,-97.0,C
+Ciudad Constitución,25.0322,-111.6703,B
+Pedro Celestino Negrete,24.726,-102.984,B
+Loreto,22.2667,-101.9833,B
+Actopan,19.5036,-96.6192,A
+Isla,18.0333,-95.5333,A
+Hueyapan de Ocampo,18.15,-95.15,A
+Villa de Zaachila,16.9508,-96.7492,B
+Ocozocoautla de Espinosa,16.7625,-93.375,A
+Jesús María,21.9667,-102.35,B
+Tepalcatepec,19.1833,-102.85,B
+Atenco,19.5167,-98.9167,B
+Tecoanapa,16.8,-99.15,A
+Acatlán de Pérez Figueroa,18.5333,-96.6,A
+Jocotepec,20.2863,-103.4304,C
+Coyuca de Catalán,18.3256,-100.6992,A
+Santa María Atzompa,17.1014,-96.7778,B
+Coyotepec,19.75,-99.1711,C
+Jáltipan de Morelos,17.9703,-94.7144,A
+Tezoyuca,19.5903,-98.9083,C
+Yajalón,17.1833,-92.3167,A
+Camargo,27.667,-105.167,B
+Cihuatlán,19.25,-104.5667,A
+Heroica Ciudad de Tlaxiaco,17.2077,-97.6798,C
+Zimapan,20.7333,-99.3833,B
+Yecapixtla,18.8833,-98.865,A
+Matías Romero,16.8667,-95.0333,A
+Temascal,18.2394,-96.4031,A
+Villa del Carbón,19.7272,-99.5417,C
+Apan,19.7,-98.4333,C
+Playa Vicente,17.8333,-95.8167,A
+Axochiapan,18.5,-98.75,A
+Nueva Rosita,27.9372,-101.2172,B
+Ciudad Melchor Múzquiz,27.8667,-101.5,C
+Galeana,24.8333,-100.0667,B
+Juan Rodríguez Clara,18.0,-95.4,A
+Empalme,27.9617,-110.8125,B
+Zacatelco,19.2167,-98.2333,C
+Santa Clara del Cobre,19.405,-101.638,C
+San Felipe Orizatlán,21.1719,-98.6064,A
+Xico,19.417,-97.0,C
+Zacualtipán,20.65,-98.65,C
+Cananea,30.9828,-110.3017,C
+Tlapa de Comonfort,17.5461,-98.5764,A
+San Juan Cancuc,16.9333,-92.3833,A
+Ameca,20.5486,-104.0431,C
+Tlalixcoyan,18.8031,-96.0611,A
+Calpulalpan,19.5869,-98.5683,C
+Jalapa,17.7,-92.8,A
+Mixquiahuala de Juarez,20.2311,-99.2131,B
+Melchor Ocampo,19.7083,-99.1444,C
+Villaflores,16.2355,-93.2677,A
+Tuxpan,19.5539,-103.3756,A
+Perote,19.5619,-97.2419,C
+Paracho de Verduzco,19.65,-102.0667,C
+Progreso,21.2828,-89.6636,B
+Mariano Escobedo,18.9167,-97.1333,C
+Salvatierra,20.2156,-100.8961,C
+Ciudad Manuel Doblado,20.7303,-101.9533,C
+Sayula,19.8667,-103.6167,C
+Jaral del Progreso,20.3667,-101.0667,C
+Tomatlán,19.9369,-105.25,A
+Santiago Juxtlahuaca,17.3333,-98.0167,C
+Coatepec Harinas,18.9,-99.7167,C
+Zacatepec,18.6833,-99.1833,A
+Berriozábal,16.8003,-93.2733,A
+Miahuatlán de Porfirio Díaz,16.3167,-96.5833,B
+Tamuín,22.0,-98.7833,A
+Tonalá,16.0914,-93.7518,A
+Ciudad de Allende,25.2833,-100.0167,C
+Tangancícuaro de Arista,19.887,-102.208,C
+Soteapan,18.2333,-94.8667,A
+Río Grande,23.8225,-103.0361,B
+Tenosique,17.4756,-91.4225,A
+Ocuilan de Arteaga,19.0,-99.4,C
+Santa Ana Nextlalpan,19.7167,-99.0667,C
+La Huacana,18.9625,-101.8069,A
+Tepeji del Río de Ocampo,19.9039,-99.3414,C
+Acatlán de Osorio,18.2086,-98.0575,B
+San Juan Evangelista,17.8833,-95.1333,A
+Parras de la Fuente,25.4403,-102.1792,B
+Zacatlán,19.9319,-97.96,C
+Tlanchinol,19.9892,-98.6786,C
+Ixtapan de la Sal,18.8333,-99.6833,C
+Paso de Ovejas,19.285,-96.44,A
+Tulum,20.2119,-87.4658,A
+Pánuco,22.05,-98.1833,A
+Temascalapa,19.8,-98.9,C
+Villanueva,22.3536,-102.8831,B
+San Felipe,21.4833,-101.2167,B
+Ticul,20.3953,-89.5339,A
+Sayula de Alemán,17.8833,-94.95,A
+Putla Villa de Guerrero,17.0167,-97.9167,A
+Nueva Italia de Ruiz,19.0194,-102.1089,B
+Huixtla,15.1383,-92.4658,A
+Ciudad Sabinas Hidalgo,26.5,-100.1833,B
+Paso del Macho,18.9667,-96.7167,A
+Turicato,19.05,-101.4167,B
+El Oro de Hidalgo,19.8008,-100.1314,C
+Amatenango de la Frontera,15.5333,-92.0833,A
+Amecameca de Juárez,19.75,-99.1711,C
+Tecozautla,20.5333,-99.6333,B
+Cuauhtémoc,19.3281,-103.6028,A
+Tequila,20.8828,-103.8367,A
+Tancítaro,19.3378,-102.3625,C
+Rodolfo Sánchez Taboada,31.7958,-116.5911,B
+Champotón,19.35,-90.7167,A
+Juanacatlán,20.5,-103.1667,C
+Capulhuac,19.2,-99.4667,C
+Jonuta,18.0833,-92.1333,A
+Escuinapa,22.835,-105.778,A
+Tepetlaoxtoc,19.5731,-98.8203,C
+Magdalena de Kino,30.6167,-111.05,B
+Temascaltepec de González,19.0433,-100.0414,C
+Huatabampo,27.05,-109.4167,B
+San Salvador El Seco,19.1333,-97.65,C
+Ometepec,16.6833,-98.4167,A
+Nanchital de Lázaro Cárdenas del Río,18.0667,-94.4167,A
+Villa Donato Guerra,19.3083,-100.1422,C
+Xalatlaco,19.1811,-99.4164,C
+Escárcega,18.6067,-90.7344,A
+Juchitepec,19.0997,-98.8792,C
+San Rafael,20.1889,-96.8658,A
+Actopan,20.2681,-98.9442,B
+Zapotiltic,19.627,-103.417,C
+San Fernando,24.8504,-98.16,C
+Ozumba,19.0392,-98.7936,C
+Teapa,17.5483,-92.953,A
+Reforma,17.8658,-93.1472,A
+Úrsulo Galván,19.4,-96.3,A
+Abasolo,20.45,-101.517,C
+Las Rosas,16.3667,-92.35,C
+Navolato,24.7656,-107.7019,B
+San Salvador,20.2833,-99.0153,B
+Ciudad Sahagun,19.7714,-98.5803,C
+Cuitzeo del Porvenir,19.9686,-101.1394,C
+Zacoalco de Torres,20.2333,-103.5833,B
+Metepec,19.2511,-99.6047,C
+Tetela de Ocampo,19.8167,-97.8,C
+Xochistlahuaca,16.7914,-98.2419,A
+San Felipe Jalapa de Díaz,18.0667,-96.5333,A
+Nochistlán de Mejía,21.3642,-102.8464,C
+Quiroga,19.6667,-101.5333,C
+Villa Luvianos,18.92,-100.2983,A
+Motozintla,15.3632,-92.2477,A
+Tlalpujahua de Rayón,19.805,-100.1744,C
+Soledad de Doblado,19.05,-96.4167,A
+Atlautla,19.0,-98.7167,C
+San Juan Guichicovi,16.9667,-95.0833,A
+Contla,19.3333,-98.1667,C
+Apaxco de Ocampo,19.98,-99.17,C
+Los Reyes de Juárez,18.9458,-97.8058,C
+Tuxpan,19.5661,-100.4625,C
+Jalpan,21.2167,-99.4725,C
+Castaños,26.7833,-101.4167,B
+Cuerámaro,20.6258,-101.6739,C
+Tepehuacán de Guerrero,21.0131,-98.8442,C
+San Agustín Tlaxiaca,20.1144,-98.8867,C
+Villagrán,20.517,-100.983,B
+Amatepec,18.65,-100.15,A
+Nava,28.4214,-100.7675,C
+Atitalaquia,20.0583,-99.2208,B
+Acapetahua,15.2333,-92.7667,A
+Paracuaro,19.1467,-102.2194,B
+Tlaxcoapan,20.0953,-99.22,B
+Miacatlán,18.7722,-99.3547,A
+Cuajinicuilapa,16.4717,-98.4153,A
+Tecolutla,20.4797,-97.01,A
+Jaltenco,19.7511,-99.0931,C
+Tehuipango,18.5167,-97.05,C
+Santiago Papasquiaro,25.0439,-105.4192,B
+Tuxpan,21.8667,-105.45,A
+Huaquechula,18.7667,-98.55,A
+Puerto Escondido,15.8619,-97.0672,A
+Ciudad Altamirano,18.3472,-100.6531,A
+Tecax,20.2019,-89.2881,A
+Felipe Carrillo Puerto,19.5786,-88.0453,A
+Huejotzingo,19.1619,-98.4064,C
+Arriaga,16.2361,-93.8995,A
+Pinal de Amoles,21.1342,-99.4586,C
+Acatlán,20.2333,-103.5333,B
+Atlatlahucan,18.935,-98.9,A
+Miahuatlán,18.5667,-97.4333,B
+Álamo,20.9167,-97.675,A
+Santa María Tonameca,15.7458,-96.5472,B
+Sultepec,18.8667,-99.95,C
+Hunucmá,21.0153,-89.8744,B
+Ixhuatlancillo,18.9,-97.15,C
+Jamay,20.29,-102.71,C
+Zumpango del Río,17.65,-99.5,B
+Carlos A. Carrillo,18.3667,-95.75,A
+Amatán,17.3667,-92.8167,A
+San Agustín Loxicha,16.0167,-96.6167,C
+Las Margaritas,16.3159,-91.9816,C
+El Salto,23.7823,-105.3585,C
+Santa María Colotepec,15.8833,-96.9167,A
+Manlio Fabio Altamirano,19.1003,-96.3411,A
+Tantoyuca,21.35,-98.2333,A
+San Miguel Ocotenco,19.0666,-97.4525,C
+Ciudad Serdán,18.9833,-97.45,C
+Atotonilco el Grande,20.6667,-98.6667,C
+San Juan Cotzocón,17.1667,-95.7833,C
+Cazones de Herrera,20.7044,-97.3106,A
+Ahualulco de Mercado,20.6167,-103.8667,C
+Tecali,18.9,-97.9667,C
+San Martín Totolán,20.0833,-102.65,C
+Cerro Azul,21.192,-97.7409,A
+General Pánfilo Natera,22.665,-102.1097,B
+San Buenaventura,27.0625,-101.5467,B
+Doctor Mora,21.1425,-100.3192,B
+La Higuerita,19.5,-104.8833,A
+La Huerta,19.4833,-104.65,A
+Ozuluama de Mascareñas,21.6667,-97.85,A
+Motul,21.1667,-89.4667,B
+Tototlán,20.5333,-102.7833,C
+Soledad Atzompa,18.75,-97.15,C
+Tamiahua,21.2788,-97.4462,A
+Rafael Delgado,18.8167,-97.0667,C
+Oxkutzkab,20.3056,-89.4183,A
+Frontera,18.5336,-92.6469,A
+Malinalco,18.9483,-99.4947,C
+Naolinco de Victoria,19.6367,-96.8525,C
+San Miguel de Papasquiaro,24.8304,-105.34,C
+Ojinaga,29.5644,-104.4164,B
+Tequixquiac,19.9097,-99.1417,C
+Yahualica de González Gallo,21.1781,-102.886,C
+Tlacolula de Matamoros,16.9542,-96.4792,B
+Huautla,21.0308,-98.285,C
+Emiliano Zapata,17.7446,-91.7651,A
+Puente Nacional,19.3333,-96.4833,A
+Acatlán,20.1444,-98.4383,B
+Yahualica,20.9531,-98.38,C
+Huejúcar,22.3591,-103.2108,B
+Ocatlán,19.3167,-98.2283,C
+Chalchihuitán,17.0333,-92.6167,A
+Axapusco,19.7194,-98.7972,C
+Pueblo Juárez,17.7,-93.2,A
+Charo,19.75,-101.05,C
+Magdalena,20.9167,-103.95,C
+Chapa de Mota,19.8144,-99.5269,C
+Comalapa,15.65,-92.15,A
+Tixtla de Guerrero,17.5667,-99.4,A
+Sombrerete,23.6333,-103.6397,C
+Ocotlán de Morelos,16.7914,-96.675,C
+Tlaltenango de Sánchez Román,21.7815,-103.3059,C
+Cuilapan de Guerrero,16.9972,-96.7817,C
+Chapala,20.2961,-103.1911,C
+Acatic,20.7803,-102.91,C
+San Martín de las Pirámides,19.7333,-98.8167,C
+Allende,28.3333,-100.8333,B
+Fortín de las Flores,18.9,-97.0,C
+Tapalpa,19.9445,-103.7585,C
+Degollado,20.4667,-102.15,C
+Valle Nacional,17.7667,-96.3,A
+Nogales,18.8167,-97.1667,C
+Chocamán,19.0167,-97.0333,C
+Altepexi,18.35,-97.3167,B
+Xoxocotla,18.685,-99.2439,A
+Texistepec,17.9,-94.8167,A
+Chachahuantla,20.2756,-98.1503,C
+Pahuatlán de Valle,20.2756,-98.1503,C
+Tepexi de Rodríguez,18.5833,-97.9333,B
+Chapulhuacán,21.1547,-98.9039,C
+La Resolana,19.3425,-104.2878,A
+Atoyac de Álvarez,17.2,-100.4333,A
+Colonia General Felipe Ángeles,23.9167,-104.6,B
+Santa María Chilchotla,18.2333,-96.8167,C
+Las Vigas de Ramírez,19.6369,-97.1,C
+Cruz Grande,16.7333,-99.1333,A
+Huanímaro,20.3675,-101.4969,C
+Villa Hidalgo,21.6667,-102.6,B
+Naranjos,21.3509,-97.6866,A
+Teopisca,16.55,-92.5,C
+Castillo de Teayo,20.75,-97.6333,A
+Etzatlán,20.7667,-104.1333,C
+Cárdenas,22.01,-99.652,B
+Ciudad Miguel Alemán,26.4003,-99.0253,B
+El Arenal,20.7,-103.6167,C
+Comapa,19.165,-96.8856,C
+Zimatlán de Álvarez,16.8667,-96.7833,A
+Tepetlixpa,19.0006,-98.8178,C
+Peto,20.1256,-88.9214,A
+Atlapexco,21.0221,-98.3543,A
+Calvillo,21.85,-102.7167,B
+Colotlán,22.2,-103.3,B
+Chiconcuac,19.55,-98.9,C
+Lerdo de Tejada,18.638,-95.5085,A
+San Juan Zitlaltepec,19.7167,-99.05,C
+Hidalgotitlán,17.7833,-94.6333,A
+Suchiapa,16.6181,-93.0942,A
+Jesús María,20.6078,-102.2242,C
+Cardonal,20.6167,-99.1167,B
+José Cardel,19.3667,-96.3667,A
+Mapastepec,15.4411,-92.8916,A
+Texcaltitlán,18.9297,-99.9372,C
+Puerto Morelos,20.8536,-86.8753,A
+Jamiltepec,16.2833,-97.8167,A
+Senguio,19.7328,-100.3522,C
+Cacahoatán,14.9898,-92.1681,A
+Cherán,19.6833,-101.95,C
+Ixtlahuacán del Río,20.8667,-103.25,C
+Cotija de la Paz,19.8167,-102.6833,C
+Santa Ana Jilotzingo,19.4,-99.2333,C
+Vista Hermosa de Negrete,20.2717,-102.4749,C
+San Ignacio Cerro Gordo,20.7333,-102.517,C
+Ajacuba,20.0833,-99.1167,B
+Huehuetla,20.1075,-97.6233,C
+Tlalnelhuayocan,19.5667,-96.9667,C
+Santa Catarina Juquila,16.2379,-97.2914,A
+Aldama,28.8386,-105.9111,B
+Asunción Nochixtlán,17.45,-97.2167,B
+Santa Cruz Zenzontepec,16.5333,-97.5,A
+Coalcomán de Vázquez Pallares,18.7833,-103.1667,A
+San Blas Atempa,16.3167,-95.2167,A
+Cuautitlán,19.4522,-104.3583,A
+Filomeno Mata,20.2,-97.7,C
+Santiago Ixcuintla,21.811,-105.2079,A
+San José Tenango,18.15,-96.7333,C
+Pijijiapan,15.6833,-93.2167,A
+San Sebastián Tutla,17.0667,-96.6667,B
+Xochiatipan de Castillo,20.8333,-98.285,C
+Tlacoachistlahuaca,16.7833,-98.2,A
+Cuquío,20.929,-103.0229,C
+Unión de San Antonio,21.128,-102.006,C
+Zapotlán del Rey,20.4674,-102.9248,C
+San Bartolo Tutotepec,20.4,-98.2,C
+Villa Corona,20.3989,-103.6889,C
+Mazapil,24.6383,-101.5553,B
+Benito Juárez,20.8833,-98.2,A
+Amacuzac,18.6,-99.37,A
+Palau,27.9167,-101.4167,B
+Santos Reyes Nopala,16.1,-97.15,A
+Compostela,21.2333,-104.9,A
+Moloacán,17.9833,-94.35,A
+Tenango de Doria,20.3356,-98.2267,C
+Ciudad Hidalgo,14.6792,-92.1497,A
+Pajapan,18.2667,-94.6833,A
+Tepatlaxco,19.0667,-97.9667,C
+Tasquillo,20.6167,-99.25,C
+Totutla,19.2167,-96.9667,C
+Ziracuaretiro,19.4333,-101.9167,C
+Mecayapan,18.2167,-94.8333,A
+Tecolotlán,20.1,-103.8333,C
+Ejutla de Crespo,16.5672,-96.7308,B
+Pisaflores,21.1933,-99.005,A
+Calnali,20.9,-98.5833,C
+Tlahuelilpan,20.1297,-99.2286,B
+San Felipe,31.0275,-114.8353,B
+Ignacio de la Llave,18.6618,-95.9721,A
+Peñamiller,21.0519,-99.815,B
+Dzitbalché,20.3167,-90.05,A
+San Juan Lalana,17.4667,-95.8833,A
+Guadalupe Victoria,19.2833,-97.3333,C
+Zinapécuaro,19.8603,-100.8275,C
+Alfajayucan,20.4,-99.35,B
+Salinas de Hidalgo,22.628,-101.7156,B
+San Julián,21.0167,-102.1667,C
+Nuevo San Juan Parangaricutiro,19.4,-102.1333,C
+Chinampa de Gorostiza,21.3667,-97.7333,A
+Jilotepec,19.6097,-96.9511,C
+Jalpa de Méndez,18.1764,-93.0631,A
+Epitacio Huerta,20.1348,-100.2934,C
+Santa María Petapa,16.8167,-95.1167,A
+Ciudad Guadalupe Victoria,24.4497,-104.1225,B
+Zapotlán de Juárez,19.9667,-98.85,C
+Juchique de Ferrer,19.8333,-96.7,A
+Cosautlán,19.3333,-96.9833,C
+Oteapan,18.0,-94.6667,A
+Santa Anita,30.5118,-111.1234,B
+Izamal,20.9314,-89.0178,A
+Venustiano Carranza,16.3294,-92.5625,A
+Santiago Tulantepec,20.0397,-98.3575,C
+Ciudad de Huitzuco,18.3,-99.35,A
+El Rosario,22.9922,-105.8572,A
+Vicente Guerrero,23.75,-103.9833,B
+Tlaltetela,19.3167,-96.9,C
+Ixhuatlán del Sureste,18.017,-94.38,A
+San Jacinto Amilpas,17.1,-96.7667,B
+La Cruz,23.9214,-106.8919,B
+Capilla de Guadalupe,20.65,-102.8,C
+Tatahuicapan,18.25,-94.7667,A
+Cosío,22.3667,-102.3,B
+Cochoapa el Grande,17.2,-98.45,C
+Madera,29.19,-108.1414,C
+Ayutla de los Libres,16.9,-99.2167,A
+Tanhuato de Guerrero,20.2819,-102.3319,C
+Amatitán,20.835,-103.731,C
+Erongarícuaro,19.5833,-101.7167,C
+Chilcuautla,20.3333,-99.2333,B
+Puréparo de Echaíz,19.9,-102.0167,C
+Pichucalco,17.5086,-93.1178,A
+Huasca de Ocampo,20.2028,-98.5758,C
+San Pedro Tapanatepec,16.3667,-94.2,A
+Zacualpan,18.7197,-99.78,C
+Nopala de Villagran,20.2528,-99.6433,C
+Huitzilan,19.9667,-97.6833,C
+La Magdalena Tlaltelulco,19.2667,-98.2,C
+El Arenal,20.2167,-98.9167,B
+Zozocolco de Hidalgo,20.1333,-97.5833,A
+Acala,16.5533,-92.8069,A
+Talpa de Allende,20.3806,-104.8222,C
+Calkiní,20.3667,-90.05,A
+Tecuala,22.4004,-105.46,A
+Coquimatlán,19.2038,-103.8086,A
+Chemax,20.655,-87.9372,A
+San Mateo del Mar,16.2,-94.9833,A
+Huixcolotla,18.9147,-97.7736,B
+Cerritos,22.4275,-100.2783,B
+Tepetzintla,21.1658,-97.8511,C
+Loreto,26.0128,-111.3433,B
+Tlaxcala,19.3125,-98.24,C
+Mineral del Monte,20.1333,-98.6667,C
+Técpan de Galeana,17.25,-100.6833,A
+Zontecomatlán de López y Fuentes,20.7667,-98.3333,C
+Guachochi,26.8194,-107.07,C
+Tlayacapan,18.9556,-98.9811,C
+Chiconquiaco,19.75,-96.8167,C
+Nacozari Viejo,30.3833,-109.6833,B
+Churumuco de Morelos,18.6167,-101.6333,B
+Santa Rosalía,27.3389,-112.2669,B
+Tianguistengo,20.7278,-98.6289,C
+San Andrés Timilpan,19.8667,-99.7333,C
+El Barrio de la Soledad,16.8,-95.1167,A
+Ciénega de Flores,25.95,-100.1833,C
+Bochil,16.9833,-92.9167,A
+Almoloya de Alquisiras,18.85,-99.85,C
+Juan Aldama,24.291,-103.394,B
+Grajales,19.25,-97.7833,C
+Santiago Jocotepec,17.5833,-95.8833,A
+Tepoztlán,18.9853,-99.0997,C
+Charcas,23.1261,-101.1128,B
+Santiago de Anaya,20.3844,-98.9647,B
+Ezequiel Montes,20.6667,-99.8833,B
+Mazamitla,19.9153,-103.0208,C
+Polotitlán de la Ilustración,20.2253,-99.8154,C
+Unión de Tula,19.957,-104.268,A
+Tampamolón Corona,21.5667,-98.8167,A
+San Pedro Pochutla,15.7476,-96.4666,A
+Aldama,22.9194,-98.0736,C
+Guerrero Negro,27.9589,-114.0561,B
+Tapilula,17.25,-93.0167,A
+Ixcatepec,21.2333,-98.0,A
+Chalma,21.2167,-98.4,A
+Ilamatlán,20.7833,-98.45,C
+Ascensión,31.0928,-107.9964,B
+Villa Unión,23.1883,-106.2158,B
+Cadereyta,20.7,-99.8167,B
+Soyaniquilpan,19.9892,-99.4361,C
+Miahuatlán,18.2833,-97.2833,B
+Villa Juárez,27.1278,-109.8426,B
+Santa María Jalapa del Marqués,16.4401,-95.4434,B
+Singuilucan,19.9675,-98.5178,C
+Mazatlán Villa de Flores,18.0167,-96.9167,A
+La Crucecita,15.7753,-96.1425,B
+Tezontepec,19.8833,-98.8167,C
+Nacozari de García,30.3736,-109.6864,B
+Chapantongo,20.2833,-99.4,C
+Valparaíso,22.7667,-103.5667,B
+Ayutla,20.0333,-104.4333,C
+Nuevo Ideal,24.8875,-105.0728,B
+Vicente Guerrero,30.7264,-115.9903,B
+Santa Cruz Amilpas,17.0667,-96.6833,B
+Pueblo Nuevo,17.15,-92.9,C
+Huazalingo,21.8156,-98.5078,A
+Santiago Amoltepec,16.6167,-97.5,C
+Isla Mujeres,21.2333,-86.7333,A
+Maxcanú,20.5833,-89.9833,A
+Xalpatlahuac,17.3333,-98.65,C
+El Fuerte,26.4214,-108.62,B
+Progreso,32.5842,-115.5842,B
+Bacalar,18.6769,-88.3953,A
+Villa Sola de Vega,16.5125,-96.9806,A
+Eloxochitlán,18.5088,-96.9227,C
+Santa Ana Maya,20.0,-101.0167,C
+San Pedro Jicayán,16.4167,-97.9833,A
+Santa Ana,30.5406,-111.1205,B
+San Miguel Xoxtla,19.1833,-98.3,C
+Mecatlán,20.2135,-97.6574,C
+Emiliano Zapata,19.65,-98.55,C
+Pantepec,17.1833,-93.05,C
+Tzintzuntzán,19.6283,-101.5789,C
+Juchipila,21.4103,-103.1175,B
+Cuichapa,18.7667,-96.8667,A
+Tempoal de Sánchez,21.5167,-98.3833,A
+La Magdalena Chichicaspa,19.4181,-99.3228,C
+Cocotitlán,19.2167,-98.85,C
+Citlaltépec,21.3366,-97.8784,A
+Yecuatla,19.8667,-96.7833,C
+San Carlos Yautepec,16.5,-96.1,B
+Jacala,21.0053,-99.1719,C
+El Parral,16.3662,-93.0067,A
+Pánuco de Coronado,24.5392,-104.3253,B
+Ojuelos de Jalisco,21.8667,-101.5833,B
+Jaltenango,15.8725,-92.725,A
+San Fernando,16.8717,-93.2063,A
+Abasolo,24.0559,-98.3733,C
+San Juan del Rio del Centauro del Norte,24.7667,-104.4667,B
+Chiautla de Tapia,18.3,-98.6039,A
+José María Morelos,19.75,-88.7,A
+Tolcayuca,19.95,-98.9167,C
+San Nicolás de los Ranchos,19.0667,-98.4833,C
+Ángel R. Cabada,18.5969,-95.4453,A
+San Pedro Ixcatlán,18.15,-96.5,A
+Mixtla de Altamirano,18.6,-97.0,C
+Tlachichilco,20.6217,-98.1994,C
+Tepetzintla,19.9667,-97.8333,C
+Santa Cruz Itundujia,16.8667,-97.65,C
+Jiquipilas,16.6677,-93.6505,A
+Huandacareo,19.9906,-101.275,C
+Espita,21.0128,-88.3047,A
+Epazoyucan,20.0177,-98.6361,B
+Olintla,20.1,-97.6833,C
+Muna,20.48,-89.72,A
+Sonoita,31.8614,-112.8544,B
+Ajijic,20.3,-103.2833,C
+Tlacolulan,19.6667,-97.0,C
+Zaragoza,17.9531,-94.6414,A
+Villa Purificación,19.8167,-104.7333,A
+Amatenango del Valle,16.5167,-92.4,C
+San Pablo Atlazalpan,19.2172,-98.909,C
+Anenecuilco,18.7781,-98.985,A
+González,22.8281,-98.4306,A
+Temamatla,19.2028,-98.87,C
+Pihuamo,18.95,-103.167,C
+Zaragoza,28.4869,-100.9175,B
+Jamapa,19.0411,-96.2411,A
+Candelaria,18.1835,-91.0463,A
+Mineral de Angangueo,19.6167,-100.2833,C
+San Luis de La Loma,17.2714,-100.8911,A
+La Trinitaria,16.1203,-92.0408,C
+Joquicingo,19.0556,-99.5467,C
+Tezoatlán de Segura y Luna,17.65,-97.8167,C
+Saucillo,28.0333,-105.2833,B
+Tixkokob,21.0022,-89.3936,A
+Acanceh,20.8133,-89.4524,A
+Álamos,27.0275,-108.94,B
+Nacajuca,18.1692,-93.0197,A
+Texcatepec,20.5833,-98.3667,C
+Soyaló,16.9333,-92.9833,C
+Villa Corzo,16.1848,-93.2677,A
+Totolapan,18.9869,-98.9197,C
+Emiliano Zapata,16.5392,-92.8967,A
+Villa Unión,23.9667,-104.0333,B
+Santa Bárbara,26.8133,-105.8203,B
+Santa Catarina Ayotzingo,19.2647,-98.8975,C
+Almoloya,19.7,-98.4,C
+Escuintla,15.3333,-92.6333,A
+Altamirano,16.7361,-92.0389,A
+San Ignacio Cohuirimpo,27.05,-109.4167,B
+Tenango del Aire,19.1575,-98.8581,C
+San Juanito,27.97,-107.6003,C
+Tierra Colorada,17.1656,-99.5264,A
+Candelaria Loxicha,15.9167,-96.4833,A
+Coacoatzintla,19.65,-96.9333,C
+Las Veredas,23.1503,-109.7061,B
+Santiago Tangamandapio,19.95,-102.4333,C
+Teotlaltzingo,19.2333,-98.4833,C
+Santiago Suchilquitongo,17.25,-96.8833,C
+Cuatro Ciénegas de Carranza,26.9861,-102.0664,B
+Molango,20.7844,-98.7175,C
+Coroneo,20.1333,-100.3333,C
+Canatlán,24.52,-104.78,B
+Teocuitatlán de Corona,20.0167,-103.1833,C
+Agua Blanca Iturbide,20.35,-98.35,C
+Hecelchakán,20.1667,-90.1333,A
+Jaltocan,21.1333,-98.5383,A
+Chavinda,20.0167,-102.45,C
+Minatitlán,19.3833,-104.05,A
+Tlalixtac de Cabrera,17.0667,-96.65,B
+Tetela del Volcán,18.8931,-98.7297,C
+San Blas,21.5397,-105.2856,A
+Akil,20.2656,-89.3478,A
+Mexicaltzingo,19.2092,-99.5858,C
+Cuapiaxtla de Madero,18.9167,-97.8167,C
+La Misión,21.1,-99.1333,C
+Chichihualco,17.655,-99.674,A
+Ciudad Tula,23.0,-99.72,B
+Parilla,17.9119,-92.9175,A
+Benemérito,16.5158,-90.6533,A
+Huejuquilla el Alto,22.6256,-103.8964,C
+Pajacuarán,20.1178,-102.5667,C
+San Pedro Huamelula,16.0167,-95.6667,B
+Platón Sánchez,21.2833,-98.3667,A
+China,25.7033,-99.2365,B
+San Nicolas Buenos Aires,19.1667,-97.55,C
+Tzucacab,20.0708,-89.0506,A
+Anáhuac,28.48,-106.7442,B
+Cuicatlan,17.8,-96.95,B
+Coycoyan de las Flores,17.2667,-98.2667,C
+Jilotlán de los Dolores,19.3719,-103.0193,A
+Huichapan,20.3733,-99.6489,B
+Cuencamé de Ceniceros,24.8667,-103.7,B
+Tekit,20.5322,-89.3314,A
+Etchojoa,26.8667,-109.65,B
+Ciudad Cuauhtémoc,21.2833,-98.3667,A
+Santo Tomás de los Plátanos,19.1817,-100.2589,A
+Pueblo Viejo,19.179,-100.2984,A
+San Gregorio Atzompa,19.0224,-98.3445,C
+Tepetlán,19.6667,-96.8,C
+Comala,19.3208,-103.7603,A
+Tila,17.3006,-92.4259,A
+Xicoténcatl,22.9958,-98.9447,A
+Villa Aldama,19.65,-97.2333,C
+Cuervos,32.6308,-114.8569,B
+Lototla,20.8392,-98.7178,C
+Chanal,16.6601,-92.2599,C
+Tlahualilo de Zaragoza,26.1083,-103.4431,B
+Seybaplaya,19.6394,-90.6883,A
+Carácuaro,19.0167,-101.1261,A
+Santa María Jacatepec,17.85,-96.2,A
+San Juanito de Escobedo,20.8,-104.0,C
+Halachó,20.4764,-90.0819,A
+Zacualpan de Amilpas,18.7836,-98.7594,A
+Ecatzingo,18.95,-98.75,C
+San Agustín de las Juntas,17.0,-96.7167,B
+Doctor Arroyo,23.6667,-100.1667,B
+San Pablo Huixtepec,16.8167,-96.7833,B
+Choix,26.7086,-108.3253,B
+Mascota,20.5235,-104.7886,C
+Tlahuiltepa,20.9233,-98.9497,C
+Otumba,19.6989,-98.7572,C
+Santa Isabel Cholula,19.0,-98.3667,C
+Santa María Ajoloapan,19.9692,-99.0353,C
+Santo Domingo Petapa,16.8167,-95.1333,A
+Tecoh,20.7419,-89.4744,A
+Ciudad Insurgentes,25.2617,-111.7744,B
+Amatlán de los Reyes,18.8457,-96.9149,A
+Coatetelco,18.7294,-99.3256,A
+San Pedro Atocpan,19.2006,-99.0492,C
+Ixtapa Zihuatanejo,17.6367,-101.5514,A
+Chilón,17.1055,-92.2715,A
+San Francisco Ixhuatan,16.35,-94.4833,A
+Higuera de Zaragoza,25.95,-109.2833,B
+Tepechitlán,21.6667,-103.3333,C
+Lerma,19.8,-90.6,A
+Tzitzio,19.5856,-100.9231,C
+San Francisco Chimalpa,19.4419,-99.3419,C
+Almoloya del Río,19.1586,-99.4886,C
+La Junta,28.4778,-107.3317,B
+Santa María del Tule,17.0465,-96.6363,B
+Santa Cruz Atizapán,19.1756,-99.4886,C
+San José de Gracia,22.15,-102.4167,B
+Tepetitlan,20.1842,-99.3808,B
+Tataltepec de Valdés,16.3064,-97.5461,A
+Ayapango,19.1264,-98.8028,C
+Santa María Xadani,16.3667,-95.0167,A
+San Juan Ixcaquixtla,18.45,-97.8167,C
+Hostotipaquillo,21.2167,-103.85,C
+Lázaro Cárdenas,28.3897,-105.6236,B
+Monte Escobedo,22.3,-103.5667,B
+Teotitlán,18.1333,-97.0833,B
+Pantelhó,17.0,-92.4833,A
+Rayón,19.1481,-99.58,C
+Vícam Pueblo,27.6422,-110.2897,B
+El Espinal,16.4906,-95.0444,A
+Ahumada,30.6186,-106.5122,B
+Coahuitlán,20.2667,-97.7167,A
+San Pedro Ixtlahuaca,17.05,-96.8167,C
+Ayotoxco de Guerrero,20.1,-97.4,A
+Bacobampo,26.9889,-109.65,B
+Hueyotlipan,18.9,-97.85,C
+San Pablo Villa de Mitla,16.917,-96.4,B
+San Quintín,30.4837,-115.95,B
+Esperanza,27.58,-109.9298,B
+Nautla,20.2167,-96.7833,A
+Altata,24.6333,-107.9167,B
+Mazatán,29.0167,-110.1333,B
+Punta Prieta,28.9289,-114.1556,B
