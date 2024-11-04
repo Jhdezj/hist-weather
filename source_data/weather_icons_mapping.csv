@@ -1,0 +1,28 @@
+Code,Description,Weather condition,Day icon ,Night icon
+1,Clear,clear sky,01d.png,01n.png
+2,Fair,clear sky,01d.png,01n.png
+3,Cloudy,Few clouds,02d.png,02n.png
+4,Overcast,scattered clouds,03d.png,03n.png
+5,Fog,mist,50d.png,50n.png
+6,Freezing Fog,mist,50d.png,50n.png
+7,Light Rain,shower rain,09d.png,09n.png
+8,Rain,rain,10d.png,10n.png
+9,Heavy Rain,thunderstorm,11d.png,11n.png
+10,Freezing Rain,rain,10d.png,10n.png
+11,Heavy Freezing Rain,thunderstorm,11d.png,11n.png
+12,Sleet,snow,13d.png,13n.png
+13,Heavy Sleet,snow,13d.png,13n.png
+14,Light Snowfall,snow,13d.png,13n.png
+15,Snowfall,snow,13d.png,13n.png
+16,Heavy Snowfall,snow,13d.png,13n.png
+17,Rain Shower,shower rain,09d.png,09n.png
+18,Heavy Rain Shower,shower rain,09d.png,09n.png
+19,Sleet Shower,snow,13d.png,13n.png
+20,Heavy Sleet Shower,snow,13d.png,13n.png
+21,Snow Shower,snow,13d.png,13n.png
+22,Heavy Snow Shower,snow,13d.png,13n.png
+23,Lightning,thunderstorm,11d.png,11n.png
+24,Hail,rain,10d.png,10n.png
+25,Thunderstorm,thunderstorm,11d.png,11n.png
+26,Heavy Thunderstorm,thunderstorm,11d.png,11n.png
+27,Storm,thunderstorm,11d.png,11n.png
