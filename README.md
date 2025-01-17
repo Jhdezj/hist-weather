@@ -10,7 +10,13 @@ This data analysis project compares current weather conditions to historical dat
 
 -  The historical data spans from 1994 to the present and is restricted to the nearest weather station within the city. 
 
+## **Built with**
 
+- Jupiter notebooks
+- python (pandas, numpy, sqlalchemy, os)
+- R (terra, dplyr)
+- Power Bi
+- SQL server
 ## **Snapshots**  
 
 ![ER-diagram.png](img/ER-diagram.PNG)
