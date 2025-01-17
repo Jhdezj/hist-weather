@@ -14,6 +14,7 @@ This data analysis project compares current weather conditions to historical dat
 ## **Snapshots**  
 
 ![ER-diagram.png](img/ER-diagram.PNG)
+![weather.png](img/weather.png)
 
 ## **Sources**  
 
